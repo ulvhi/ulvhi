@@ -21,29 +21,3 @@
   <a href="mailto:huseinov.ulvhi24@icloud.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="iCloud Mail" height="30" width="40" />
   </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-</p>
